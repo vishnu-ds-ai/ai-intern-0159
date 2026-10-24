@@ -1,0 +1,4 @@
+Tools used:
+- After understanding the problem ,came up with some issues in data after manual checking (because the data set isn't large it took 20 min    to figure out some issues) , to find any more issues in the data used Claude (Anthropic AI assistant) and ChatGPT: helped me explore the CSV  files, spot few more the problems like temperature difference and after writing my code, for debugging and clean code used Claude.
+I reviewed the code, ran it, and checked the numbers myself.
+- Python 3 (standard library only: csv, re, random).
